@@ -189,7 +189,7 @@ yat:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
+#   username: "nosoloingenieroscol"
 #   repo: "The repo to store comments"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
@@ -222,4 +222,4 @@ plugins:
 #added
 #theme: jekyll-theme-yat
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
+#remote_theme: "jeffreytse/jekyll-theme-yat"
